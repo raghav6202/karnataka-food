@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai+Looped:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai+Looped:wght@300&display=swap");
+.App {
+  text-align: center;
+}
+
+body {
+  text-align: center;
+  background-color: #ef4444;
+  font-family: "IBM Plex Sans Thai Looped", sans-serif;
+}
+h1 {
+  font-size: 2rem;
+  background-color: yellow;
+  padding: 1rem;
+  border-radius: 1rem;
+  margin: 0.5rem;
+  font-family: "IBM Plex Sans Thai Looped", sans-serif;
+}
+
+h2 {
+  color: yellow;
+}
+
+h3 {
+  color: yellow;
+}
+
+button {
+  margin: 0.5rem;
+  padding: 0.7rem 4rem;
+  border-radius: 1rem;
+  background-color: yellow;
+  font-weight: bold;
+  font-family: "IBM Plex Sans Thai Looped", sans-serif;
+  cursor: pointer;
+  font-size: 0.8rem;
+}
+li {
+  text-align: center;
+  list-style: none;
+  margin: 15px;
+  padding: 17px 25px;
+  background-color: yellow;
+  border-radius: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.list-heading {
+  font-size: "1.5rem";
+  font-weight: "bold";
+  margin-bottom: "0.5rem";
+  text-decoration: underline;
+}
+.list-text {
+  font-size: "1rem";
+}
